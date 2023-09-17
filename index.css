@@ -1,0 +1,36 @@
+.side-nav{
+    width: 100px;
+    height: 100%;
+    background-color: #0d74f5;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 20px 30px;
+}
+
+.logo{
+    display: block;
+    margin-bottom: 50px;
+}
+
+.nav-links{
+    list-style: none;
+    padding-left: 0%;
+}
+
+.nav-links li{
+    padding: 10px 0px;
+}
+
+.nav-links li a{
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 14px;
+    display: flex;
+    align-items: center;
+}
+
+.nav-links li a{
+    font-size: 22px;
+    margin-right: 2xp;
+}
